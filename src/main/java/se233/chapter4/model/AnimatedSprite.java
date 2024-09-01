@@ -7,8 +7,10 @@ import javafx.scene.image.ImageView;
 public class AnimatedSprite extends ImageView {
     int count, columns, rows, offsetX, offsetY, width, height, curIndex, curColumnIndex = 0, curRowIndex = 0;
 
-    public AnimatedSprite(Image image, int count, int columns, int rows, int offsetX, int offsetY, int width, int height) {
+    public AnimatedSprite(Image image, int imgWidth, int imgHeight, int count, int columns, int rows, int offsetX, int offsetY, int width, int height) {
         this.setImage(image);
+        this.setFitWidth(imgWidth);
+        this.setFitHeight(imgHeight);
         this.count = count;
         this.columns = columns;
         this.rows = rows;

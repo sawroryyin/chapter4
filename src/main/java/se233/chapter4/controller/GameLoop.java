@@ -26,11 +26,17 @@ public class GameLoop implements Runnable {
         } else if (leftPressed) {
             gameCharacter.getImageView().tick();
             gameCharacter.moveLeft();
-            gameStage.getGameCharacter().trace();
+            gameCharacter.trace();
+            gameCharacter.getImageView().tick();
+            gameCharacter.moveLeft();
+            gameStage.getGameCharacter2().trace();
         } else if (rightPressed) {
             gameCharacter.getImageView().tick();
             gameCharacter.moveRight();
-            gameStage.getGameCharacter().trace();
+            gameStage.getGameCharacter1().trace();
+            gameCharacter.getImageView().tick();
+            gameCharacter.moveRight();
+            gameStage.getGameCharacter2().trace();
         } else {
             gameCharacter.stop();
         }
@@ -44,7 +50,8 @@ public class GameLoop implements Runnable {
     public void run() {
         while (running) {
             float time = System.currentTimeMillis();
-            update(gameStage.getGameCharacter());
+            update(gameStage.getGameCharacter1());
+            update(gameStage.getGameCharacter2());
 
             time = System.currentTimeMillis() - time;
             if (time < interval) {

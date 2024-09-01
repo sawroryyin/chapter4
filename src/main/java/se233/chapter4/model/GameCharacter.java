@@ -1,5 +1,6 @@
 package se233.chapter4.model;
 
+import javafx.scene.image.ImageView;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -36,18 +37,23 @@ public class GameCharacter extends Pane {
     int xMaxVelocity = 7;
     int yMaxVelocity = 17;
 
-    public GameCharacter(int x, int y, int offsetX, int offsetY, KeyCode leftKey, KeyCode rightKey, KeyCode upKey) {
+    public GameCharacter(ImageView imageView, int x, int y, int offsetX, int offsetY, KeyCode leftKey, KeyCode rightKey, KeyCode upKey,
+                         int xAcceleration, int yAcceleration, int xMaxVelocity, int yMaxVelocity) {
         this.x = x;
         this.y = y;
         this.setTranslateX(x);
         this.setTranslateY(y);
-        this.gameCharacterImg = new Image(Launcher.class.getResourceAsStream("assets/MarioSheet.png"));
-        this.imageView = new AnimatedSprite(gameCharacterImg, 4, 4, 1, offsetX, offsetY, 16, 32);
-        this.imageView.setFitWidth(CHARACTER_WIDTH);
-        this.imageView.setFitHeight(CHARACTER_HEIGHT);
+        this.imageView = (AnimatedSprite) imageView;
+//        this.imageView.setFitWidth(CHARACTER_WIDTH);
+//        this.imageView.setFitHeight(CHARACTER_HEIGHT);
         this.leftKey = leftKey;
         this.rightKey = rightKey;
         this.upKey = upKey;
+
+        this.xAcceleration = xAcceleration;
+        this.yAcceleration = yAcceleration;
+        this.xMaxVelocity = xMaxVelocity;
+        this.yMaxVelocity = yMaxVelocity;
         this.getChildren().addAll(this.imageView);
     }
 
@@ -112,13 +118,16 @@ public class GameCharacter extends Pane {
             yVelocity = 0;
         }
     }
+
     public void checkReachFloor() {
         if(isFalling && y >= GameStage.GROUND - CHARACTER_HEIGHT) {
+            y = GameStage.GROUND - CHARACTER_HEIGHT;
             isFalling = false;
             canJump = true;
             yVelocity = 0;
         }
     }
+
     public void repaint() {
         moveX();
         moveY();
