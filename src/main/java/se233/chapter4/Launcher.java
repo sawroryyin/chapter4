@@ -21,7 +21,13 @@ public class Launcher extends Application {
         primaryStage.setTitle("Mario");
         primaryStage.setScene(scene);
         primaryStage.show();
-        (new Thread(gameLoop)).start();
-        (new Thread(drawingLoop)).start();
+
+        Thread gameLoopThread = new Thread(gameLoop);
+        gameLoopThread.setDaemon(true);
+        gameLoopThread.start();
+
+        Thread drawingLoopThread = new Thread(drawingLoop);
+        drawingLoopThread.setDaemon(true);
+        drawingLoopThread.start();
     }
 }

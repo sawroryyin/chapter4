@@ -61,11 +61,17 @@ public class GameCharacter extends Pane {
         setScaleX(-1);
         isMoveLeft = true;
         isMoveRight = false;
+        if(x <= 0) {
+            logger.debug("reach left wall");
+        }
     }
     public void moveRight() {
         setScaleX(1);
         isMoveLeft = false;
         isMoveRight = true;
+        if(x + getWidth() >= GameStage.WIDTH) {
+            logger.debug("reach right wall");
+        }
     }
 
     public void stop() {
@@ -95,6 +101,7 @@ public class GameCharacter extends Pane {
     }
 
     public void checkReachGameWall() {
+        boolean reachWall = false;
         if(x <= 0) {
             x = 0;
         } else if(x + getWidth() >= GameStage.WIDTH) {
@@ -120,8 +127,8 @@ public class GameCharacter extends Pane {
     }
 
     public void checkReachFloor() {
-        if(isFalling && y >= GameStage.GROUND - CHARACTER_HEIGHT) {
-            y = GameStage.GROUND - CHARACTER_HEIGHT;
+        if(isFalling && y >= GameStage.GROUND - (int)imageView.getFitHeight()) {
+            y = GameStage.GROUND - (int)imageView.getFitHeight();
             isFalling = false;
             canJump = true;
             yVelocity = 0;
