@@ -3415,3 +3415,803 @@
 [ INFO] 2024-09-02 Mon 09:18:48.567 [time 10874 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
 [DEBUG] 2024-09-02 Mon 09:18:48.568 [time 10875 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
 [ INFO] 2024-09-02 Mon 09:18:48.568 [time 10875 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:29.467 [time 2452 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:29.469 [time 2454 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:29.872 [time 2857 ms] [Thread-3] GameCharacter [trace line no :160] - x:58 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:29.872 [time 2857 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:29.974 [time 2959 ms] [Thread-3] GameCharacter [trace line no :160] - x:100 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:29.975 [time 2960 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.075 [time 3060 ms] [Thread-3] GameCharacter [trace line no :160] - x:142 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.075 [time 3060 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.178 [time 3163 ms] [Thread-3] GameCharacter [trace line no :160] - x:191 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.178 [time 3163 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.279 [time 3264 ms] [Thread-3] GameCharacter [trace line no :160] - x:233 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.279 [time 3264 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.381 [time 3366 ms] [Thread-3] GameCharacter [trace line no :160] - x:275 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.381 [time 3366 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.483 [time 3468 ms] [Thread-3] GameCharacter [trace line no :160] - x:317 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.483 [time 3468 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.585 [time 3570 ms] [Thread-3] GameCharacter [trace line no :160] - x:359 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.586 [time 3571 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.687 [time 3672 ms] [Thread-3] GameCharacter [trace line no :160] - x:401 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.687 [time 3672 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.788 [time 3773 ms] [Thread-3] GameCharacter [trace line no :160] - x:443 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.788 [time 3773 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.889 [time 3874 ms] [Thread-3] GameCharacter [trace line no :160] - x:485 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.896 [time 3881 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.997 [time 3982 ms] [Thread-3] GameCharacter [trace line no :160] - x:534 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:30.997 [time 3982 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.100 [time 4085 ms] [Thread-3] GameCharacter [trace line no :160] - x:576 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.100 [time 4085 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.201 [time 4186 ms] [Thread-3] GameCharacter [trace line no :160] - x:618 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.201 [time 4186 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.302 [time 4287 ms] [Thread-3] GameCharacter [trace line no :160] - x:576 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.302 [time 4287 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.403 [time 4388 ms] [Thread-3] GameCharacter [trace line no :160] - x:534 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.403 [time 4388 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.505 [time 4490 ms] [Thread-3] GameCharacter [trace line no :160] - x:485 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.505 [time 4490 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.607 [time 4592 ms] [Thread-3] GameCharacter [trace line no :160] - x:443 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.607 [time 4592 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.708 [time 4693 ms] [Thread-3] GameCharacter [trace line no :160] - x:401 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.708 [time 4693 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.809 [time 4794 ms] [Thread-3] GameCharacter [trace line no :160] - x:359 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.809 [time 4794 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.910 [time 4895 ms] [Thread-3] GameCharacter [trace line no :160] - x:317 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:31.910 [time 4895 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.013 [time 4998 ms] [Thread-3] GameCharacter [trace line no :160] - x:275 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.013 [time 4998 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.215 [time 5200 ms] [Thread-3] GameCharacter [trace line no :160] - x:233 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.216 [time 5201 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.317 [time 5302 ms] [Thread-3] GameCharacter [trace line no :160] - x:275 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.317 [time 5302 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.418 [time 5403 ms] [Thread-3] GameCharacter [trace line no :160] - x:317 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.418 [time 5403 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.519 [time 5504 ms] [Thread-3] GameCharacter [trace line no :160] - x:359 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.519 [time 5504 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.620 [time 5605 ms] [Thread-3] GameCharacter [trace line no :160] - x:401 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.621 [time 5606 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.723 [time 5708 ms] [Thread-3] GameCharacter [trace line no :160] - x:443 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.723 [time 5708 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.824 [time 5809 ms] [Thread-3] GameCharacter [trace line no :160] - x:485 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.825 [time 5810 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.927 [time 5912 ms] [Thread-3] GameCharacter [trace line no :160] - x:534 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:32.927 [time 5912 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.029 [time 6014 ms] [Thread-3] GameCharacter [trace line no :160] - x:576 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.029 [time 6014 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.130 [time 6115 ms] [Thread-3] GameCharacter [trace line no :160] - x:618 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.130 [time 6115 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.231 [time 6216 ms] [Thread-3] GameCharacter [trace line no :160] - x:660 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.231 [time 6216 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.332 [time 6317 ms] [Thread-3] GameCharacter [trace line no :160] - x:702 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.332 [time 6317 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.433 [time 6418 ms] [Thread-3] GameCharacter [trace line no :160] - x:744 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.433 [time 6418 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.433 [time 6418 ms] [Thread-3] GameCharacter [trace line no :160] - x:744 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.434 [time 6419 ms] [Thread-3] GameCharacter [trace line no :160] - x:30 y:236 vx:0 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:33.535 [time 6520 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:33.535 [time 6520 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:33.535 [time 6520 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:33.536 [time 6521 ms] [Thread-3] GameCharacter [trace line no :160] - x:90 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.536 [time 6521 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.536 [time 6521 ms] [Thread-3] GameCharacter [trace line no :160] - x:90 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:33.637 [time 6622 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:33.637 [time 6622 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:33.637 [time 6622 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:33.637 [time 6622 ms] [Thread-3] GameCharacter [trace line no :160] - x:180 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.637 [time 6622 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.638 [time 6623 ms] [Thread-3] GameCharacter [trace line no :160] - x:180 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:33.739 [time 6724 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:33.740 [time 6725 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:33.740 [time 6725 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:33.740 [time 6725 ms] [Thread-3] GameCharacter [trace line no :160] - x:285 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.740 [time 6725 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.740 [time 6725 ms] [Thread-3] GameCharacter [trace line no :160] - x:285 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:33.841 [time 6826 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:33.841 [time 6826 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:33.841 [time 6826 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:33.842 [time 6827 ms] [Thread-3] GameCharacter [trace line no :160] - x:375 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.842 [time 6827 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.842 [time 6827 ms] [Thread-3] GameCharacter [trace line no :160] - x:375 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.943 [time 6928 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:33.944 [time 6929 ms] [Thread-3] GameCharacter [trace line no :160] - x:465 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.045 [time 7030 ms] [Thread-3] GameCharacter [trace line no :160] - x:555 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.045 [time 7030 ms] [Thread-3] GameCharacter [trace line no :160] - x:555 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.146 [time 7131 ms] [Thread-3] GameCharacter [trace line no :160] - x:465 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.146 [time 7131 ms] [Thread-3] GameCharacter [trace line no :160] - x:465 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.248 [time 7233 ms] [Thread-3] GameCharacter [trace line no :160] - x:375 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.248 [time 7233 ms] [Thread-3] GameCharacter [trace line no :160] - x:375 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.350 [time 7335 ms] [Thread-3] GameCharacter [trace line no :160] - x:285 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.350 [time 7335 ms] [Thread-3] GameCharacter [trace line no :160] - x:285 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.451 [time 7436 ms] [Thread-3] GameCharacter [trace line no :160] - x:195 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.451 [time 7436 ms] [Thread-3] GameCharacter [trace line no :160] - x:195 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.552 [time 7537 ms] [Thread-3] GameCharacter [trace line no :160] - x:105 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.553 [time 7538 ms] [Thread-3] GameCharacter [trace line no :160] - x:105 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.654 [time 7639 ms] [Thread-3] GameCharacter [trace line no :160] - x:15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.654 [time 7639 ms] [Thread-3] GameCharacter [trace line no :160] - x:15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:34.755 [time 7740 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:34.755 [time 7740 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:34.755 [time 7740 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:34.756 [time 7741 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:34.858 [time 7843 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:34.858 [time 7843 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:34.858 [time 7843 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:34.859 [time 7844 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.959 [time 7944 ms] [Thread-3] GameCharacter [trace line no :160] - x:768 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:34.959 [time 7944 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.061 [time 8046 ms] [Thread-3] GameCharacter [trace line no :160] - x:726 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.061 [time 8046 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.061 [time 8046 ms] [Thread-3] GameCharacter [trace line no :160] - x:726 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.062 [time 8047 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.163 [time 8148 ms] [Thread-3] GameCharacter [trace line no :160] - x:684 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.163 [time 8148 ms] [Thread-3] GameCharacter [trace line no :160] - x:90 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.164 [time 8149 ms] [Thread-3] GameCharacter [trace line no :160] - x:684 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.164 [time 8149 ms] [Thread-3] GameCharacter [trace line no :160] - x:90 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.265 [time 8250 ms] [Thread-3] GameCharacter [trace line no :160] - x:642 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.265 [time 8250 ms] [Thread-3] GameCharacter [trace line no :160] - x:180 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.265 [time 8250 ms] [Thread-3] GameCharacter [trace line no :160] - x:642 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.265 [time 8250 ms] [Thread-3] GameCharacter [trace line no :160] - x:180 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.367 [time 8352 ms] [Thread-3] GameCharacter [trace line no :160] - x:600 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.367 [time 8352 ms] [Thread-3] GameCharacter [trace line no :160] - x:270 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.367 [time 8352 ms] [Thread-3] GameCharacter [trace line no :160] - x:600 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.368 [time 8353 ms] [Thread-3] GameCharacter [trace line no :160] - x:270 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.469 [time 8454 ms] [Thread-3] GameCharacter [trace line no :160] - x:551 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.469 [time 8454 ms] [Thread-3] GameCharacter [trace line no :160] - x:375 y:128 vx:15 vy:13
+[ INFO] 2024-10-27 Sun 17:09:35.469 [time 8454 ms] [Thread-3] GameCharacter [trace line no :160] - x:551 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.469 [time 8454 ms] [Thread-3] GameCharacter [trace line no :160] - x:375 y:128 vx:15 vy:13
+[ INFO] 2024-10-27 Sun 17:09:35.570 [time 8555 ms] [Thread-3] GameCharacter [trace line no :160] - x:509 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.570 [time 8555 ms] [Thread-3] GameCharacter [trace line no :160] - x:465 y:92 vx:15 vy:1
+[ INFO] 2024-10-27 Sun 17:09:35.570 [time 8555 ms] [Thread-3] GameCharacter [trace line no :160] - x:509 y:236 vx:7 vy:17
+[ INFO] 2024-10-27 Sun 17:09:35.570 [time 8555 ms] [Thread-3] GameCharacter [trace line no :160] - x:465 y:92 vx:15 vy:1
+[ INFO] 2024-10-27 Sun 17:09:35.671 [time 8656 ms] [Thread-3] GameCharacter [trace line no :160] - x:467 y:155 vx:7 vy:11
+[ INFO] 2024-10-27 Sun 17:09:35.672 [time 8657 ms] [Thread-3] GameCharacter [trace line no :160] - x:555 y:123 vx:15 vy:10
+[ INFO] 2024-10-27 Sun 17:09:35.672 [time 8657 ms] [Thread-3] GameCharacter [trace line no :160] - x:467 y:155 vx:7 vy:11
+[ INFO] 2024-10-27 Sun 17:09:35.672 [time 8657 ms] [Thread-3] GameCharacter [trace line no :160] - x:555 y:123 vx:15 vy:10
+[ INFO] 2024-10-27 Sun 17:09:35.775 [time 8760 ms] [Thread-3] GameCharacter [trace line no :160] - x:425 y:110 vx:7 vy:5
+[ INFO] 2024-10-27 Sun 17:09:35.775 [time 8760 ms] [Thread-3] GameCharacter [trace line no :160] - x:645 y:225 vx:15 vy:22
+[ INFO] 2024-10-27 Sun 17:09:35.775 [time 8760 ms] [Thread-3] GameCharacter [trace line no :160] - x:425 y:110 vx:7 vy:5
+[ INFO] 2024-10-27 Sun 17:09:35.775 [time 8760 ms] [Thread-3] GameCharacter [trace line no :160] - x:645 y:225 vx:15 vy:22
+[ INFO] 2024-10-27 Sun 17:09:35.876 [time 8861 ms] [Thread-3] GameCharacter [trace line no :160] - x:383 y:101 vx:7 vy:1
+[ INFO] 2024-10-27 Sun 17:09:35.876 [time 8861 ms] [Thread-3] GameCharacter [trace line no :160] - x:735 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.876 [time 8861 ms] [Thread-3] GameCharacter [trace line no :160] - x:383 y:101 vx:7 vy:1
+[ INFO] 2024-10-27 Sun 17:09:35.876 [time 8861 ms] [Thread-3] GameCharacter [trace line no :160] - x:735 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:35.978 [time 8963 ms] [Thread-3] GameCharacter [trace line no :160] - x:341 y:128 vx:7 vy:7
+[ INFO] 2024-10-27 Sun 17:09:35.978 [time 8963 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:128 vx:15 vy:13
+[DEBUG] 2024-10-27 Sun 17:09:35.978 [time 8963 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:35.978 [time 8963 ms] [Thread-3] GameCharacter [trace line no :160] - x:341 y:128 vx:7 vy:7
+[DEBUG] 2024-10-27 Sun 17:09:35.979 [time 8964 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:35.979 [time 8964 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:128 vx:15 vy:13
+[ INFO] 2024-10-27 Sun 17:09:36.080 [time 9065 ms] [Thread-3] GameCharacter [trace line no :160] - x:299 y:191 vx:7 vy:13
+[ INFO] 2024-10-27 Sun 17:09:36.080 [time 9065 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:92 vx:15 vy:1
+[DEBUG] 2024-10-27 Sun 17:09:36.080 [time 9065 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:36.080 [time 9065 ms] [Thread-3] GameCharacter [trace line no :160] - x:299 y:191 vx:7 vy:13
+[DEBUG] 2024-10-27 Sun 17:09:36.080 [time 9065 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:36.080 [time 9065 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:92 vx:15 vy:1
+[ INFO] 2024-10-27 Sun 17:09:36.181 [time 9166 ms] [Thread-3] GameCharacter [trace line no :160] - x:257 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:36.181 [time 9166 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:123 vx:15 vy:10
+[DEBUG] 2024-10-27 Sun 17:09:36.181 [time 9166 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:36.181 [time 9166 ms] [Thread-3] GameCharacter [trace line no :160] - x:257 y:236 vx:7 vy:17
+[DEBUG] 2024-10-27 Sun 17:09:36.181 [time 9166 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:36.182 [time 9167 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:123 vx:15 vy:10
+[ INFO] 2024-10-27 Sun 17:09:36.284 [time 9269 ms] [Thread-3] GameCharacter [trace line no :160] - x:208 y:145 vx:7 vy:10
+[ INFO] 2024-10-27 Sun 17:09:36.285 [time 9270 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:249 vx:15 vy:24
+[DEBUG] 2024-10-27 Sun 17:09:36.285 [time 9270 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:36.285 [time 9270 ms] [Thread-3] GameCharacter [trace line no :160] - x:208 y:145 vx:7 vy:10
+[DEBUG] 2024-10-27 Sun 17:09:36.285 [time 9270 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:36.285 [time 9270 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:249 vx:15 vy:24
+[ INFO] 2024-10-27 Sun 17:09:36.486 [time 9471 ms] [Thread-3] GameCharacter [trace line no :160] - x:166 y:103 vx:7 vy:2
+[ INFO] 2024-10-27 Sun 17:09:36.486 [time 9471 ms] [Thread-3] GameCharacter [trace line no :160] - x:736 y:128 vx:15 vy:13
+[ INFO] 2024-10-27 Sun 17:09:36.486 [time 9471 ms] [Thread-3] GameCharacter [trace line no :160] - x:736 y:128 vx:15 vy:13
+[ INFO] 2024-10-27 Sun 17:09:36.486 [time 9471 ms] [Thread-3] GameCharacter [trace line no :160] - x:736 y:128 vx:15 vy:13
+[ INFO] 2024-10-27 Sun 17:09:36.588 [time 9573 ms] [Thread-3] GameCharacter [trace line no :160] - x:208 y:136 vx:7 vy:8
+[ INFO] 2024-10-27 Sun 17:09:36.588 [time 9573 ms] [Thread-3] GameCharacter [trace line no :160] - x:646 y:92 vx:15 vy:1
+[ INFO] 2024-10-27 Sun 17:09:36.589 [time 9574 ms] [Thread-3] GameCharacter [trace line no :160] - x:646 y:92 vx:15 vy:1
+[ INFO] 2024-10-27 Sun 17:09:36.589 [time 9574 ms] [Thread-3] GameCharacter [trace line no :160] - x:646 y:92 vx:15 vy:1
+[ INFO] 2024-10-27 Sun 17:09:36.691 [time 9676 ms] [Thread-3] GameCharacter [trace line no :160] - x:250 y:205 vx:7 vy:14
+[ INFO] 2024-10-27 Sun 17:09:36.691 [time 9676 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:123 vx:15 vy:10
+[ INFO] 2024-10-27 Sun 17:09:36.691 [time 9676 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:123 vx:15 vy:10
+[ INFO] 2024-10-27 Sun 17:09:36.692 [time 9677 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:123 vx:15 vy:10
+[ INFO] 2024-10-27 Sun 17:09:36.793 [time 9778 ms] [Thread-3] GameCharacter [trace line no :160] - x:292 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:36.793 [time 9778 ms] [Thread-3] GameCharacter [trace line no :160] - x:466 y:225 vx:15 vy:22
+[ INFO] 2024-10-27 Sun 17:09:36.794 [time 9779 ms] [Thread-3] GameCharacter [trace line no :160] - x:466 y:225 vx:15 vy:22
+[ INFO] 2024-10-27 Sun 17:09:36.794 [time 9779 ms] [Thread-3] GameCharacter [trace line no :160] - x:466 y:225 vx:15 vy:22
+[ INFO] 2024-10-27 Sun 17:09:36.895 [time 9880 ms] [Thread-3] GameCharacter [trace line no :160] - x:334 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:36.895 [time 9880 ms] [Thread-3] GameCharacter [trace line no :160] - x:376 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:36.895 [time 9880 ms] [Thread-3] GameCharacter [trace line no :160] - x:376 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:36.895 [time 9880 ms] [Thread-3] GameCharacter [trace line no :160] - x:376 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:36.996 [time 9981 ms] [Thread-3] GameCharacter [trace line no :160] - x:271 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:36.996 [time 9981 ms] [Thread-3] GameCharacter [trace line no :160] - x:271 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:37.199 [time 10184 ms] [Thread-3] GameCharacter [trace line no :160] - x:383 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:37.199 [time 10184 ms] [Thread-3] GameCharacter [trace line no :160] - x:181 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:37.300 [time 10285 ms] [Thread-3] GameCharacter [trace line no :160] - x:383 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:37.300 [time 10285 ms] [Thread-3] GameCharacter [trace line no :160] - x:271 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:38.306 [time 11291 ms] [Thread-3] GameCharacter [trace line no :160] - x:383 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:38.306 [time 11291 ms] [Thread-3] GameCharacter [trace line no :160] - x:361 y:92 vx:15 vy:1
+[ INFO] 2024-10-27 Sun 17:09:38.408 [time 11393 ms] [Thread-3] GameCharacter [trace line no :160] - x:383 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:38.408 [time 11393 ms] [Thread-3] GameCharacter [trace line no :160] - x:466 y:135 vx:15 vy:12
+[ INFO] 2024-10-27 Sun 17:09:38.711 [time 11696 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:38.711 [time 11696 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:38.813 [time 11798 ms] [Thread-3] GameCharacter [trace line no :160] - x:466 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:38.813 [time 11798 ms] [Thread-3] GameCharacter [trace line no :160] - x:466 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:39.115 [time 12100 ms] [Thread-3] GameCharacter [trace line no :160] - x:376 y:92 vx:15 vy:1
+[ INFO] 2024-10-27 Sun 17:09:39.115 [time 12100 ms] [Thread-3] GameCharacter [trace line no :160] - x:376 y:92 vx:15 vy:1
+[ INFO] 2024-10-27 Sun 17:09:39.215 [time 12200 ms] [Thread-3] GameCharacter [trace line no :160] - x:286 y:123 vx:15 vy:10
+[ INFO] 2024-10-27 Sun 17:09:39.215 [time 12200 ms] [Thread-3] GameCharacter [trace line no :160] - x:271 y:135 vx:15 vy:12
+[ INFO] 2024-10-27 Sun 17:09:39.519 [time 12504 ms] [Thread-3] GameCharacter [trace line no :160] - x:383 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:39.519 [time 12504 ms] [Thread-3] GameCharacter [trace line no :160] - x:181 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:39.620 [time 12605 ms] [Thread-3] GameCharacter [trace line no :160] - x:383 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:39.620 [time 12605 ms] [Thread-3] GameCharacter [trace line no :160] - x:271 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:41.831 [time 14816 ms] [Thread-3] GameCharacter [trace line no :160] - x:383 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:41.831 [time 14816 ms] [Thread-3] GameCharacter [trace line no :160] - x:361 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:41.933 [time 14918 ms] [Thread-3] GameCharacter [trace line no :160] - x:425 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:41.933 [time 14918 ms] [Thread-3] GameCharacter [trace line no :160] - x:361 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:41.933 [time 14918 ms] [Thread-3] GameCharacter [trace line no :160] - x:361 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:41.933 [time 14918 ms] [Thread-3] GameCharacter [trace line no :160] - x:361 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.035 [time 15020 ms] [Thread-3] GameCharacter [trace line no :160] - x:474 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.035 [time 15020 ms] [Thread-3] GameCharacter [trace line no :160] - x:256 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.035 [time 15020 ms] [Thread-3] GameCharacter [trace line no :160] - x:256 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.035 [time 15020 ms] [Thread-3] GameCharacter [trace line no :160] - x:256 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.137 [time 15122 ms] [Thread-3] GameCharacter [trace line no :160] - x:516 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.137 [time 15122 ms] [Thread-3] GameCharacter [trace line no :160] - x:166 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.137 [time 15122 ms] [Thread-3] GameCharacter [trace line no :160] - x:166 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.137 [time 15122 ms] [Thread-3] GameCharacter [trace line no :160] - x:166 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.239 [time 15224 ms] [Thread-3] GameCharacter [trace line no :160] - x:558 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.239 [time 15224 ms] [Thread-3] GameCharacter [trace line no :160] - x:76 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.239 [time 15224 ms] [Thread-3] GameCharacter [trace line no :160] - x:76 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.239 [time 15224 ms] [Thread-3] GameCharacter [trace line no :160] - x:76 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.340 [time 15325 ms] [Thread-3] GameCharacter [trace line no :160] - x:600 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.340 [time 15325 ms] [Thread-3] GameCharacter [trace line no :160] - x:-14 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.341 [time 15326 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:42.341 [time 15326 ms] [Thread-3] GameCharacter [trace line no :160] - x:-14 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.341 [time 15326 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:42.341 [time 15326 ms] [Thread-3] GameCharacter [trace line no :160] - x:-14 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.442 [time 15427 ms] [Thread-3] GameCharacter [trace line no :160] - x:642 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.442 [time 15427 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.442 [time 15427 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:42.442 [time 15427 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.443 [time 15428 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:42.443 [time 15428 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.544 [time 15529 ms] [Thread-3] GameCharacter [trace line no :160] - x:684 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.544 [time 15529 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.545 [time 15530 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:42.545 [time 15530 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.545 [time 15530 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:42.545 [time 15530 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.646 [time 15631 ms] [Thread-3] GameCharacter [trace line no :160] - x:726 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:42.646 [time 15631 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.646 [time 15631 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:42.646 [time 15631 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.646 [time 15631 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:42.647 [time 15632 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.748 [time 15733 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:42.748 [time 15733 ms] [Thread-3] GameCharacter [trace line no :160] - x:768 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.748 [time 15733 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:42.748 [time 15733 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.748 [time 15733 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:42.748 [time 15733 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.749 [time 15734 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:42.749 [time 15734 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.850 [time 15835 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:42.850 [time 15835 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.850 [time 15835 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:42.850 [time 15835 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.850 [time 15835 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:42.850 [time 15835 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.850 [time 15835 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:42.850 [time 15835 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.952 [time 15937 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:42.952 [time 15937 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.952 [time 15937 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:42.952 [time 15937 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.952 [time 15937 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:42.953 [time 15938 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:42.953 [time 15938 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:42.953 [time 15938 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:43.054 [time 16039 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:43.054 [time 16039 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:43.054 [time 16039 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:43.054 [time 16039 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:43.054 [time 16039 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.055 [time 16040 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:43.055 [time 16040 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.055 [time 16040 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.155 [time 16140 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.155 [time 16140 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.257 [time 16242 ms] [Thread-3] GameCharacter [trace line no :160] - x:726 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.257 [time 16242 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:43.257 [time 16242 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.257 [time 16242 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:43.257 [time 16242 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.257 [time 16242 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.358 [time 16343 ms] [Thread-3] GameCharacter [trace line no :160] - x:684 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.358 [time 16343 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:43.358 [time 16343 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.358 [time 16343 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:43.358 [time 16343 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.358 [time 16343 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.459 [time 16444 ms] [Thread-3] GameCharacter [trace line no :160] - x:642 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.459 [time 16444 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:43.459 [time 16444 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.459 [time 16444 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:43.459 [time 16444 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.459 [time 16444 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.562 [time 16547 ms] [Thread-3] GameCharacter [trace line no :160] - x:593 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.562 [time 16547 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:43.562 [time 16547 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.562 [time 16547 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:43.562 [time 16547 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.562 [time 16547 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.663 [time 16648 ms] [Thread-3] GameCharacter [trace line no :160] - x:551 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.663 [time 16648 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:128 vx:15 vy:13
+[DEBUG] 2024-10-27 Sun 17:09:43.663 [time 16648 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.663 [time 16648 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:128 vx:15 vy:13
+[DEBUG] 2024-10-27 Sun 17:09:43.663 [time 16648 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.663 [time 16648 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:128 vx:15 vy:13
+[ INFO] 2024-10-27 Sun 17:09:43.765 [time 16750 ms] [Thread-3] GameCharacter [trace line no :160] - x:509 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.765 [time 16750 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:92 vx:15 vy:1
+[DEBUG] 2024-10-27 Sun 17:09:43.765 [time 16750 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.765 [time 16750 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:92 vx:15 vy:1
+[DEBUG] 2024-10-27 Sun 17:09:43.766 [time 16751 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.766 [time 16751 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:92 vx:15 vy:1
+[ INFO] 2024-10-27 Sun 17:09:43.867 [time 16852 ms] [Thread-3] GameCharacter [trace line no :160] - x:467 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.867 [time 16852 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:123 vx:15 vy:10
+[DEBUG] 2024-10-27 Sun 17:09:43.867 [time 16852 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.867 [time 16852 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:123 vx:15 vy:10
+[DEBUG] 2024-10-27 Sun 17:09:43.867 [time 16852 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.867 [time 16852 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:123 vx:15 vy:10
+[ INFO] 2024-10-27 Sun 17:09:43.968 [time 16953 ms] [Thread-3] GameCharacter [trace line no :160] - x:425 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:43.968 [time 16953 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:225 vx:15 vy:22
+[DEBUG] 2024-10-27 Sun 17:09:43.968 [time 16953 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.968 [time 16953 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:225 vx:15 vy:22
+[DEBUG] 2024-10-27 Sun 17:09:43.968 [time 16953 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:43.968 [time 16953 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:225 vx:15 vy:22
+[ INFO] 2024-10-27 Sun 17:09:44.069 [time 17054 ms] [Thread-3] GameCharacter [trace line no :160] - x:383 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:44.069 [time 17054 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:44.069 [time 17054 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:44.069 [time 17054 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:44.069 [time 17054 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:44.069 [time 17054 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:44.171 [time 17156 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:44.171 [time 17156 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:44.171 [time 17156 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:44.171 [time 17156 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:44.271 [time 17256 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:44.271 [time 17256 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:44.271 [time 17256 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:44.271 [time 17256 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:44.372 [time 17357 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:44.372 [time 17357 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:44.372 [time 17357 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:44.372 [time 17357 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:44.474 [time 17459 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:44.474 [time 17459 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:44.474 [time 17459 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:44.474 [time 17459 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:44.577 [time 17562 ms] [Thread-3] GameCharacter [trace line no :160] - x:341 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:44.577 [time 17562 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:44.577 [time 17562 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:44.577 [time 17562 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:44.577 [time 17562 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:44.577 [time 17562 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:44.677 [time 17662 ms] [Thread-3] GameCharacter [trace line no :160] - x:383 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:44.677 [time 17662 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:44.678 [time 17663 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:44.678 [time 17663 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:44.678 [time 17663 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:44.678 [time 17663 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:44.780 [time 17765 ms] [Thread-3] GameCharacter [trace line no :160] - x:425 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:44.780 [time 17765 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:44.881 [time 17866 ms] [Thread-3] GameCharacter [trace line no :160] - x:467 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:44.881 [time 17866 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:44.983 [time 17968 ms] [Thread-3] GameCharacter [trace line no :160] - x:509 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:44.983 [time 17968 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:45.084 [time 18069 ms] [Thread-3] GameCharacter [trace line no :160] - x:551 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:45.084 [time 18069 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:45.186 [time 18171 ms] [Thread-3] GameCharacter [trace line no :160] - x:593 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:45.186 [time 18171 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:45.287 [time 18272 ms] [Thread-3] GameCharacter [trace line no :160] - x:635 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:45.287 [time 18272 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:45.387 [time 18372 ms] [Thread-3] GameCharacter [trace line no :160] - x:677 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:45.387 [time 18372 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:45.488 [time 18473 ms] [Thread-3] GameCharacter [trace line no :160] - x:719 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:45.488 [time 18473 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:45.589 [time 18574 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:45.589 [time 18574 ms] [Thread-3] GameCharacter [trace line no :160] - x:768 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:45.589 [time 18574 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:45.589 [time 18574 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:45.690 [time 18675 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:45.690 [time 18675 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:45.690 [time 18675 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:45.690 [time 18675 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:45.791 [time 18776 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:45.791 [time 18776 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:45.791 [time 18776 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:45.791 [time 18776 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:45.891 [time 18876 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:45.891 [time 18876 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:45.891 [time 18876 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:45.891 [time 18876 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:45.992 [time 18977 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:45.992 [time 18977 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:45.992 [time 18977 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:45.992 [time 18977 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.093 [time 19078 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.093 [time 19078 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.093 [time 19078 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.093 [time 19078 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.195 [time 19180 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.195 [time 19180 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.195 [time 19180 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.195 [time 19180 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.296 [time 19281 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.296 [time 19281 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.296 [time 19281 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.296 [time 19281 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.397 [time 19382 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.397 [time 19382 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.397 [time 19382 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.397 [time 19382 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.497 [time 19482 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.497 [time 19482 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.497 [time 19482 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.497 [time 19482 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.598 [time 19583 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.598 [time 19583 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.598 [time 19583 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.598 [time 19583 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.701 [time 19686 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.701 [time 19686 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.701 [time 19686 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.701 [time 19686 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.801 [time 19786 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.801 [time 19786 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.801 [time 19786 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.801 [time 19786 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.903 [time 19888 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.903 [time 19888 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:46.903 [time 19888 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:46.903 [time 19888 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.004 [time 19989 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.004 [time 19989 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.004 [time 19989 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.004 [time 19989 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.105 [time 20090 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.105 [time 20090 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.105 [time 20090 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.105 [time 20090 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.206 [time 20191 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.206 [time 20191 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.206 [time 20191 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.206 [time 20191 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.307 [time 20292 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.307 [time 20292 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.307 [time 20292 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.307 [time 20292 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.409 [time 20394 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.409 [time 20394 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.409 [time 20394 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.409 [time 20394 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.510 [time 20495 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.510 [time 20495 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.510 [time 20495 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.510 [time 20495 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.611 [time 20596 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.611 [time 20596 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.611 [time 20596 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.611 [time 20596 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.712 [time 20697 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.712 [time 20697 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.712 [time 20697 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.712 [time 20697 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.813 [time 20798 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.813 [time 20798 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.813 [time 20798 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.813 [time 20798 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.913 [time 20898 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.913 [time 20898 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:47.913 [time 20898 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:47.913 [time 20898 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:48.014 [time 20999 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:48.014 [time 20999 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:48.014 [time 20999 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:48.014 [time 20999 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:48.116 [time 21101 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:48.116 [time 21101 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:48.116 [time 21101 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:48.116 [time 21101 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:48.317 [time 21302 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:48.317 [time 21302 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:48.317 [time 21302 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:48.317 [time 21302 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:48.518 [time 21503 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:48.518 [time 21503 ms] [Thread-3] GameCharacter [trace line no :160] - x:768 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:48.518 [time 21503 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:48.518 [time 21503 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:48.720 [time 21705 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:48.720 [time 21705 ms] [Thread-3] GameCharacter [trace line no :160] - x:768 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:48.720 [time 21705 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:48.721 [time 21706 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:48.923 [time 21908 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:48.923 [time 21908 ms] [Thread-3] GameCharacter [trace line no :160] - x:768 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:48.923 [time 21908 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:48.923 [time 21908 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.024 [time 22009 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:49.024 [time 22009 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.024 [time 22009 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:49.024 [time 22009 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.527 [time 22512 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:49.527 [time 22512 ms] [Thread-3] GameCharacter [trace line no :160] - x:768 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.527 [time 22512 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:49.527 [time 22512 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.527 [time 22512 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:49.527 [time 22512 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.527 [time 22512 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:49.527 [time 22512 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.629 [time 22614 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:49.629 [time 22614 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.629 [time 22614 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:49.629 [time 22614 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.629 [time 22614 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:49.629 [time 22614 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.629 [time 22614 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:49.629 [time 22614 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.730 [time 22715 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:49.730 [time 22715 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.730 [time 22715 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:49.730 [time 22715 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.730 [time 22715 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:49.730 [time 22715 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.730 [time 22715 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:49.730 [time 22715 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.832 [time 22817 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:49.832 [time 22817 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.832 [time 22817 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:49.832 [time 22817 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.832 [time 22817 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:49.832 [time 22817 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.832 [time 22817 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:49.832 [time 22817 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.934 [time 22919 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:49.934 [time 22919 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.934 [time 22919 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:49.934 [time 22919 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.934 [time 22919 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:49.934 [time 22919 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:49.934 [time 22919 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:49.934 [time 22919 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:50.035 [time 23020 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:50.035 [time 23020 ms] [Thread-3] GameCharacter [trace line no :160] - x:775 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:50.035 [time 23020 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:50.035 [time 23020 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:50.035 [time 23020 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:50.035 [time 23020 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:50.035 [time 23020 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:50.035 [time 23020 ms] [Thread-3] GameCharacter [trace line no :160] - x:-15 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.237 [time 23222 ms] [Thread-3] GameCharacter [trace line no :160] - x:768 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.237 [time 23222 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.339 [time 23324 ms] [Thread-3] GameCharacter [trace line no :160] - x:726 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.339 [time 23324 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.339 [time 23324 ms] [Thread-3] GameCharacter [trace line no :160] - x:719 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.339 [time 23324 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.439 [time 23424 ms] [Thread-3] GameCharacter [trace line no :160] - x:677 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.439 [time 23424 ms] [Thread-3] GameCharacter [trace line no :160] - x:90 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.439 [time 23424 ms] [Thread-3] GameCharacter [trace line no :160] - x:677 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.439 [time 23424 ms] [Thread-3] GameCharacter [trace line no :160] - x:90 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.541 [time 23526 ms] [Thread-3] GameCharacter [trace line no :160] - x:635 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.541 [time 23526 ms] [Thread-3] GameCharacter [trace line no :160] - x:180 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.541 [time 23526 ms] [Thread-3] GameCharacter [trace line no :160] - x:635 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.541 [time 23526 ms] [Thread-3] GameCharacter [trace line no :160] - x:180 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.642 [time 23627 ms] [Thread-3] GameCharacter [trace line no :160] - x:593 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.642 [time 23627 ms] [Thread-3] GameCharacter [trace line no :160] - x:270 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.642 [time 23627 ms] [Thread-3] GameCharacter [trace line no :160] - x:593 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.642 [time 23627 ms] [Thread-3] GameCharacter [trace line no :160] - x:270 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.744 [time 23729 ms] [Thread-3] GameCharacter [trace line no :160] - x:551 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.744 [time 23729 ms] [Thread-3] GameCharacter [trace line no :160] - x:360 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.744 [time 23729 ms] [Thread-3] GameCharacter [trace line no :160] - x:551 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.744 [time 23729 ms] [Thread-3] GameCharacter [trace line no :160] - x:360 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.846 [time 23831 ms] [Thread-3] GameCharacter [trace line no :160] - x:509 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.846 [time 23831 ms] [Thread-3] GameCharacter [trace line no :160] - x:450 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.846 [time 23831 ms] [Thread-3] GameCharacter [trace line no :160] - x:509 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.846 [time 23831 ms] [Thread-3] GameCharacter [trace line no :160] - x:450 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.947 [time 23932 ms] [Thread-3] GameCharacter [trace line no :160] - x:467 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.947 [time 23932 ms] [Thread-3] GameCharacter [trace line no :160] - x:540 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.947 [time 23932 ms] [Thread-3] GameCharacter [trace line no :160] - x:467 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:50.947 [time 23932 ms] [Thread-3] GameCharacter [trace line no :160] - x:540 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.048 [time 24033 ms] [Thread-3] GameCharacter [trace line no :160] - x:425 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.048 [time 24033 ms] [Thread-3] GameCharacter [trace line no :160] - x:630 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.048 [time 24033 ms] [Thread-3] GameCharacter [trace line no :160] - x:425 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.048 [time 24033 ms] [Thread-3] GameCharacter [trace line no :160] - x:630 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.149 [time 24134 ms] [Thread-3] GameCharacter [trace line no :160] - x:383 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.149 [time 24134 ms] [Thread-3] GameCharacter [trace line no :160] - x:720 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.149 [time 24134 ms] [Thread-3] GameCharacter [trace line no :160] - x:383 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.149 [time 24134 ms] [Thread-3] GameCharacter [trace line no :160] - x:720 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.251 [time 24236 ms] [Thread-3] GameCharacter [trace line no :160] - x:341 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.251 [time 24236 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.251 [time 24236 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.251 [time 24236 ms] [Thread-3] GameCharacter [trace line no :160] - x:341 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.251 [time 24236 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.251 [time 24236 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.354 [time 24339 ms] [Thread-3] GameCharacter [trace line no :160] - x:299 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.354 [time 24339 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.354 [time 24339 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.354 [time 24339 ms] [Thread-3] GameCharacter [trace line no :160] - x:299 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.354 [time 24339 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.354 [time 24339 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.455 [time 24440 ms] [Thread-3] GameCharacter [trace line no :160] - x:257 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.455 [time 24440 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.455 [time 24440 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.455 [time 24440 ms] [Thread-3] GameCharacter [trace line no :160] - x:257 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.455 [time 24440 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.455 [time 24440 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.556 [time 24541 ms] [Thread-3] GameCharacter [trace line no :160] - x:215 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.556 [time 24541 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.556 [time 24541 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.556 [time 24541 ms] [Thread-3] GameCharacter [trace line no :160] - x:208 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.556 [time 24541 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.556 [time 24541 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.658 [time 24643 ms] [Thread-3] GameCharacter [trace line no :160] - x:166 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.658 [time 24643 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.658 [time 24643 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.658 [time 24643 ms] [Thread-3] GameCharacter [trace line no :160] - x:166 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.658 [time 24643 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.658 [time 24643 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.758 [time 24743 ms] [Thread-3] GameCharacter [trace line no :160] - x:124 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.758 [time 24743 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.758 [time 24743 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.758 [time 24743 ms] [Thread-3] GameCharacter [trace line no :160] - x:124 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.758 [time 24743 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.758 [time 24743 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.859 [time 24844 ms] [Thread-3] GameCharacter [trace line no :160] - x:82 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.859 [time 24844 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.859 [time 24844 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.859 [time 24844 ms] [Thread-3] GameCharacter [trace line no :160] - x:82 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.859 [time 24844 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.859 [time 24844 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.960 [time 24945 ms] [Thread-3] GameCharacter [trace line no :160] - x:40 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:51.960 [time 24945 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.960 [time 24945 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.960 [time 24945 ms] [Thread-3] GameCharacter [trace line no :160] - x:40 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:51.960 [time 24945 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:51.961 [time 24946 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:52.062 [time 25047 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:52.062 [time 25047 ms] [Thread-3] GameCharacter [trace line no :160] - x:-2 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:52.062 [time 25047 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:52.062 [time 25047 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:52.062 [time 25047 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:52.062 [time 25047 ms] [Thread-3] GameCharacter [trace line no :160] - x:-2 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:52.062 [time 25047 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:52.062 [time 25047 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:52.163 [time 25148 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:52.163 [time 25148 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:52.163 [time 25148 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:52.163 [time 25148 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:52.668 [time 25653 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:52.668 [time 25653 ms] [Thread-3] GameCharacter [trace line no :160] - x:736 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:52.869 [time 25854 ms] [Thread-3] GameCharacter [trace line no :160] - x:42 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:52.869 [time 25854 ms] [Thread-3] GameCharacter [trace line no :160] - x:736 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:53.171 [time 26156 ms] [Thread-3] GameCharacter [trace line no :160] - x:91 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:53.171 [time 26156 ms] [Thread-3] GameCharacter [trace line no :160] - x:736 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:53.874 [time 26859 ms] [Thread-3] GameCharacter [trace line no :160] - x:736 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:53.874 [time 26859 ms] [Thread-3] GameCharacter [trace line no :160] - x:736 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:54.176 [time 27161 ms] [Thread-3] GameCharacter [trace line no :160] - x:646 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:54.176 [time 27161 ms] [Thread-3] GameCharacter [trace line no :160] - x:646 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:54.981 [time 27966 ms] [Thread-3] GameCharacter [trace line no :160] - x:133 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:54.981 [time 27966 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:55.585 [time 28570 ms] [Thread-3] GameCharacter [trace line no :160] - x:91 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:55.585 [time 28570 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:55.686 [time 28671 ms] [Thread-3] GameCharacter [trace line no :160] - x:49 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:55.686 [time 28671 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:55.887 [time 28872 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:55.887 [time 28872 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:55.887 [time 28872 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:55.887 [time 28872 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.190 [time 29175 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.190 [time 29175 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.190 [time 29175 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.190 [time 29175 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.493 [time 29478 ms] [Thread-3] GameCharacter [trace line no :160] - x:42 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.493 [time 29478 ms] [Thread-3] GameCharacter [trace line no :160] - x:466 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.493 [time 29478 ms] [Thread-3] GameCharacter [trace line no :160] - x:466 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.493 [time 29478 ms] [Thread-3] GameCharacter [trace line no :160] - x:466 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.796 [time 29781 ms] [Thread-3] GameCharacter [trace line no :160] - x:84 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.796 [time 29781 ms] [Thread-3] GameCharacter [trace line no :160] - x:376 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.796 [time 29781 ms] [Thread-3] GameCharacter [trace line no :160] - x:376 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.796 [time 29781 ms] [Thread-3] GameCharacter [trace line no :160] - x:376 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.896 [time 29881 ms] [Thread-3] GameCharacter [trace line no :160] - x:133 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.896 [time 29881 ms] [Thread-3] GameCharacter [trace line no :160] - x:286 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.896 [time 29881 ms] [Thread-3] GameCharacter [trace line no :160] - x:286 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.896 [time 29881 ms] [Thread-3] GameCharacter [trace line no :160] - x:286 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:56.997 [time 29982 ms] [Thread-3] GameCharacter [trace line no :160] - x:196 y:128 vx:15 vy:13
+[ INFO] 2024-10-27 Sun 17:09:56.997 [time 29982 ms] [Thread-3] GameCharacter [trace line no :160] - x:196 y:128 vx:15 vy:13
+[ INFO] 2024-10-27 Sun 17:09:57.803 [time 30788 ms] [Thread-3] GameCharacter [trace line no :160] - x:175 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:57.803 [time 30788 ms] [Thread-3] GameCharacter [trace line no :160] - x:106 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:57.904 [time 30889 ms] [Thread-3] GameCharacter [trace line no :160] - x:133 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:57.904 [time 30889 ms] [Thread-3] GameCharacter [trace line no :160] - x:106 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:57.904 [time 30889 ms] [Thread-3] GameCharacter [trace line no :160] - x:133 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:57.904 [time 30889 ms] [Thread-3] GameCharacter [trace line no :160] - x:106 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.007 [time 30992 ms] [Thread-3] GameCharacter [trace line no :160] - x:91 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.007 [time 30992 ms] [Thread-3] GameCharacter [trace line no :160] - x:196 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.007 [time 30992 ms] [Thread-3] GameCharacter [trace line no :160] - x:84 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.007 [time 30992 ms] [Thread-3] GameCharacter [trace line no :160] - x:211 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.108 [time 31093 ms] [Thread-3] GameCharacter [trace line no :160] - x:42 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.108 [time 31093 ms] [Thread-3] GameCharacter [trace line no :160] - x:301 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.108 [time 31093 ms] [Thread-3] GameCharacter [trace line no :160] - x:42 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.108 [time 31093 ms] [Thread-3] GameCharacter [trace line no :160] - x:301 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.209 [time 31194 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.209 [time 31194 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.209 [time 31194 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.209 [time 31194 ms] [Thread-3] GameCharacter [trace line no :160] - x:391 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.209 [time 31194 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.209 [time 31194 ms] [Thread-3] GameCharacter [trace line no :160] - x:391 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.310 [time 31295 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.310 [time 31295 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.310 [time 31295 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.310 [time 31295 ms] [Thread-3] GameCharacter [trace line no :160] - x:481 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.310 [time 31295 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.310 [time 31295 ms] [Thread-3] GameCharacter [trace line no :160] - x:481 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.410 [time 31395 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.410 [time 31395 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.410 [time 31395 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.410 [time 31395 ms] [Thread-3] GameCharacter [trace line no :160] - x:571 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.410 [time 31395 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.410 [time 31395 ms] [Thread-3] GameCharacter [trace line no :160] - x:571 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.512 [time 31497 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.512 [time 31497 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.512 [time 31497 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.512 [time 31497 ms] [Thread-3] GameCharacter [trace line no :160] - x:661 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.512 [time 31497 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:58.512 [time 31497 ms] [Thread-3] GameCharacter [trace line no :160] - x:661 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.613 [time 31598 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.613 [time 31598 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.613 [time 31598 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.613 [time 31598 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.613 [time 31598 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:58.613 [time 31598 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.613 [time 31598 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:58.613 [time 31598 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.714 [time 31699 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.714 [time 31699 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.714 [time 31699 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.714 [time 31699 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.714 [time 31699 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:58.714 [time 31699 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.714 [time 31699 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:58.714 [time 31699 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.814 [time 31799 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.814 [time 31799 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.814 [time 31799 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.814 [time 31799 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.814 [time 31799 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:58.814 [time 31799 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.814 [time 31799 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:58.814 [time 31799 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.916 [time 31901 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.916 [time 31901 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:58.916 [time 31901 ms] [Thread-3] GameCharacter [moveLeft line no :65] - reach left wall
+[ INFO] 2024-10-27 Sun 17:09:58.916 [time 31901 ms] [Thread-3] GameCharacter [trace line no :160] - x:751 y:236 vx:15 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:59.018 [time 32003 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:59.018 [time 32003 ms] [Thread-3] GameCharacter [trace line no :160] - x:-7 y:236 vx:7 vy:0
+[DEBUG] 2024-10-27 Sun 17:09:59.018 [time 32003 ms] [Thread-3] GameCharacter [moveRight line no :73] - reach right wall
+[ INFO] 2024-10-27 Sun 17:09:59.018 [time 32003 ms] [Thread-3] GameCharacter [trace line no :160] - x:736 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:59.320 [time 32305 ms] [Thread-3] GameCharacter [trace line no :160] - x:736 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:59.320 [time 32305 ms] [Thread-3] GameCharacter [trace line no :160] - x:736 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:59.421 [time 32406 ms] [Thread-3] GameCharacter [trace line no :160] - x:646 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:59.421 [time 32406 ms] [Thread-3] GameCharacter [trace line no :160] - x:646 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:59.723 [time 32708 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:59.723 [time 32708 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:09:59.824 [time 32809 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:09:59.824 [time 32809 ms] [Thread-3] GameCharacter [trace line no :160] - x:646 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:10:00.025 [time 33010 ms] [Thread-3] GameCharacter [trace line no :160] - x:736 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:10:00.025 [time 33010 ms] [Thread-3] GameCharacter [trace line no :160] - x:736 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:10:00.127 [time 33112 ms] [Thread-3] GameCharacter [trace line no :160] - x:646 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:10:00.127 [time 33112 ms] [Thread-3] GameCharacter [trace line no :160] - x:646 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:10:00.227 [time 33212 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:10:00.227 [time 33212 ms] [Thread-3] GameCharacter [trace line no :160] - x:556 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:10:00.328 [time 33313 ms] [Thread-3] GameCharacter [trace line no :160] - x:466 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:10:00.328 [time 33313 ms] [Thread-3] GameCharacter [trace line no :160] - x:466 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:10:00.431 [time 33416 ms] [Thread-3] GameCharacter [trace line no :160] - x:376 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:10:00.431 [time 33416 ms] [Thread-3] GameCharacter [trace line no :160] - x:376 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:10:00.532 [time 33517 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:10:00.532 [time 33517 ms] [Thread-3] GameCharacter [trace line no :160] - x:286 y:236 vx:15 vy:0
+[ INFO] 2024-10-27 Sun 17:10:00.633 [time 33618 ms] [Thread-3] GameCharacter [trace line no :160] - x:0 y:236 vx:7 vy:0
+[ INFO] 2024-10-27 Sun 17:10:00.633 [time 33618 ms] [Thread-3] GameCharacter [trace line no :160] - x:391 y:236 vx:15 vy:0
